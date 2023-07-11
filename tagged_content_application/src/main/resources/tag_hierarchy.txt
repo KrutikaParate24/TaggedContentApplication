@@ -1,0 +1,3 @@
+animals: mammals, birds
+mammals: lion, tiger
+birds: eagle, sparrow
